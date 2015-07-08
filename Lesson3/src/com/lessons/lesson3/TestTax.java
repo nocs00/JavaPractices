@@ -2,7 +2,7 @@ package com.lessons.lesson3;
 
 class TestTax{
 	public static void main(String[] args) {
-		Tax t = new Tax(); // creating an instance
+		Tax t = new NJTax(); // creating an instance
 		t.grossIncome= 50000; // assigning the values
 		t.dependents= 2;
 		t.state= "NJ";
