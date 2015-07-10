@@ -20,7 +20,7 @@ class Tax {
     	return (grossIncome*0.33 - dependents*100);
     }
     
-    public void convertToEuros(double taxInDollars){
+    public void convertToEuros(double taxInDollars) {
         System.out.println("Tax in Euros: " + taxInDollars/1.25);
     }	
     
