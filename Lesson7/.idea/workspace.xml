@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29153157-fcfc-4413-bb02-5e3d42e3e52f" name="Default" comment="" />
-    <ignored path="Lesson6.iws" />
+    <list default="true" id="528c451d-d150-4a5c-aa23-7279bfa419db" name="Default" comment="" />
+    <ignored path="Lesson7.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,54 +60,44 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Lesson6" />
+    <favorites_list name="Lesson7" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Payable.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Payable.java">
+      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="33" column="53" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Person.java">
+      <file leaf-file-name="Employee.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="40" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="8" column="20" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Contractor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Contractor.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Contractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="52" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="16" column="103" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestPayIncrease.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestPayIncrease.java">
+      <file leaf-file-name="TestPayIncrease2.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestPayIncrease2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="7" selection-start="1305" selection-end="1305" vertical-scroll-proportion="1.2164049" vertical-offset="0" max-vertical-offset="833">
+            <state line="17" column="5" selection-start="486" selection-end="486" vertical-scroll-proportion="0.504363" vertical-offset="0" max-vertical-offset="573">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="252" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -122,14 +112,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Payable.java" />
-        <option value="$PROJECT_DIR$/src/lesson6/Payable.java" />
-        <option value="$PROJECT_DIR$/src/com/lessons/lesson6/Payable.java" />
-        <option value="$PROJECT_DIR$/src/com/lessons/lesson6/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/lessons/lesson6/TestPayIncrease.java" />
-        <option value="$PROJECT_DIR$/src/com/lessons/lesson6/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/lessons/lesson6/Contractor.java" />
-        <option value="$PROJECT_DIR$/src/TestPayIncrease.java" />
+        <option value="$PROJECT_DIR$/src/com/lessons/lesson7/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/lessons/lesson7/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/lessons/lesson7/Contractor.java" />
+        <option value="$PROJECT_DIR$/src/TestPayIncrease2.java" />
       </list>
     </option>
   </component>
@@ -171,27 +157,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -201,11 +187,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson6" />
+              <option name="myItemId" value="Lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -213,7 +199,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
+              <option name="myItemId" value="lesson7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,10 +219,10 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.TestPayIncrease">
-    <configuration default="false" name="TestPayIncrease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestPayIncrease2">
+    <configuration default="false" name="TestPayIncrease2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TestPayIncrease" />
+      <option name="MAIN_CLASS_NAME" value="TestPayIncrease2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -245,7 +231,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Lesson6" />
+      <module name="Lesson7" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -463,11 +449,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestPayIncrease" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestPayIncrease2" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestPayIncrease" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestPayIncrease2" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -476,34 +462,17 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="29153157-fcfc-4413-bb02-5e3d42e3e52f" name="Default" comment="" />
-      <created>1438004998026</created>
-      <updated>1438004998026</updated>
-      <workItem from="1438005003042" duration="4619000" />
+      <changelist id="528c451d-d150-4a5c-aa23-7279bfa419db" name="Default" comment="" />
+      <created>1438011848948</created>
+      <updated>1438011848948</updated>
+      <workItem from="1438011851430" duration="1323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4619000" />
+    <option name="totallyTimeSpent" value="1323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="0" width="1400" height="1000" extended-state="0" />
@@ -529,7 +498,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -558,39 +527,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="33" column="53" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Payable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="8" column="20" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Contractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="252" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="16" column="103" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson6/Contractor.java">
+    <entry file="file://$PROJECT_DIR$/src/TestPayIncrease2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="52" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestPayIncrease.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="7" selection-start="1305" selection-end="1305" vertical-scroll-proportion="1.2164049" vertical-offset="0" max-vertical-offset="833">
+        <state line="17" column="5" selection-start="486" selection-end="486" vertical-scroll-proportion="0.504363" vertical-offset="0" max-vertical-offset="573">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
