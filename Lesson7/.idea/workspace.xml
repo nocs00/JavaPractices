@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Person.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="53" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+            <state line="33" column="53" selection-start="787" selection-end="787" vertical-scroll-proportion="0.64631337" vertical-offset="0" max-vertical-offset="868">
               <folding />
             </state>
           </provider>
@@ -91,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestPayIncrease2.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestPayIncrease2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestPayIncrease2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="470" selection-end="470" vertical-scroll-proportion="0.2546083" vertical-offset="0" max-vertical-offset="868">
+            <state line="15" column="26" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -226,7 +226,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson7InterfacePoly" />
   </component>
   <component name="RunManager" selected="Application.TestPayIncrease2">
     <configuration default="false" name="TestPayIncrease2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -478,12 +478,12 @@
       <updated>1438011848948</updated>
       <workItem from="1438011851430" duration="1323000" />
       <workItem from="1438074865529" duration="1132000" />
-      <workItem from="1438076612769" duration="40000" />
+      <workItem from="1438076612769" duration="206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2495000" />
+    <option name="totallyTimeSpent" value="2661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="0" width="1400" height="1000" extended-state="0" />
@@ -622,16 +622,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/TestPayIncrease2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="53" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+        <state line="15" column="26" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestPayIncrease2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lessons/lesson7/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="470" selection-end="470" vertical-scroll-proportion="0.2546083" vertical-offset="0" max-vertical-offset="868">
+        <state line="33" column="53" selection-start="787" selection-end="787" vertical-scroll-proportion="0.64631337" vertical-offset="0" max-vertical-offset="868">
           <folding />
         </state>
       </provider>

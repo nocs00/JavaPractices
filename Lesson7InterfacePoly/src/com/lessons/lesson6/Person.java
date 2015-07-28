@@ -3,7 +3,7 @@ package com.lessons.lesson6;
 /**
  * Created by pdudenkov on 27.07.15.
  */
-public class Person {
+public abstract class Person implements Payable {
     private String name;
 
     public Person(String name) {
@@ -11,6 +11,8 @@ public class Person {
     }
 
     public String getName() {
-        return "Person's bane is "+name;
+        return "Person's name is "+name;
     }
+
+    public abstract boolean increasePay(int percent) ;
 }
